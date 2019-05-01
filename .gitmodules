@@ -1,3 +1,4 @@
 [submodule "magnolia"]
 	path = magnolia
-	url = git@github.com:propensive/magnolia.git
+	url = https://github.com/propensive/magnolia.git
+  branch = fury
